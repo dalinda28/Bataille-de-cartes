@@ -1,2 +1,2 @@
-# bataille_de_carte
+# Bataille de cartes
 Projet Java : Bataille de cartes 
